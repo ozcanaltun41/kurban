@@ -1,1 +1,0 @@
-console.log('Kurban Panel başlatıldı.');
